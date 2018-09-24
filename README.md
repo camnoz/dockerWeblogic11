@@ -37,7 +37,7 @@ http://download.oracle.com/otn/nt/middleware/11g/wls/1036/wls1036_generic.jar
 
 12-Add the files jdk and wls into scripts folder
 
-13-Buidl image
+13-Build image
 docker build -t weblogic1036 /home/camilo/Escritorio/camilo/weblogic
 
 14-Run container
